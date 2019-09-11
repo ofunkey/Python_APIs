@@ -9,7 +9,7 @@ But, if pressed, how would you prove it?
 In this report, Python script is created to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, a simple Python library is utilized, the OpenWeatherMap API, and a representative model of weather across world cities.
 
 #### The objective is to build a series of scatter plots to showcase the following relationships:
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
