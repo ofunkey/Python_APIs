@@ -10,13 +10,17 @@ In this report, Python script is created to visualize the weather of 500+ cities
 
 #### The objective is to build a series of scatter plots to showcase the following relationships:
 * Temperature (F) vs. Latitude
+
 ![temp](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/MaxTemp_vs_Latitude.png 'temp')
 
 * Humidity (%) vs. Latitude
+
 ![humid](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/Lat_vs_Humidity.png 'humid')
 
 * Cloudiness (%) vs. Latitude
+
 ![cloudy](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/Lat_vs_Cloudiness.png 'cloudy')
 
 * Wind Speed (mph) vs. Latitude
+
 ![wind](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/Lat_Vs_WindSpeed.png 'wind')
