@@ -14,5 +14,8 @@ In this report, Python script is created to visualize the weather of 500+ cities
 
 https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/MaxTemp_vs_Latitude.png
 * Humidity (%) vs. Latitude
+![humid](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/MaxTemp_vs_Latitude.png 'humid')
 * Cloudiness (%) vs. Latitude
+![humid](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/MaxTemp_vs_Latitude.png 'humid')
 * Wind Speed (mph) vs. Latitude
+![humid](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/MaxTemp_vs_Latitude.png 'humid')
