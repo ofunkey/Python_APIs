@@ -1,28 +1,41 @@
-# Python_APIs
+# What's the Weather Like?
 
 ## Background
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. Now taking what I've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
-Now, we know what you may be thinking: "Duh. It gets hotter..."
+Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. In this work, the objective is to use Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator? 
 
-But, if pressed, how would you prove it?
+Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
-### WeatherPy
-In this project report, Python script is created to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, a simple Python library is utilized, the OpenWeatherMap API, and a representative model of weather across world cities.
+Ok, it tim to **prove** it!
 
-#### The objective is to build a series of scatter plots to showcase the following relationships:
+![Equator](Images/equatorsign.png)
+
+## WeatherPy
+
+In this work, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and also create a representative model of weather across world cities.
+
+The objective is to build a series of scatter plots to showcase the relationships as shown below:
+
 * Temperature (F) vs. Latitude
 
-![temp](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/MaxTemp_vs_Latitude.png 'temp')
+![temp](Python_APIs/MaxTemp_vs_Latitude.png)
 
 * Humidity (%) vs. Latitude
 
-![humid](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/Lat_vs_Humidity.png 'humid')
+![humid](Python_APIs/Lat_vs_Humidity.png ')
 
 * Cloudiness (%) vs. Latitude
 
-![cloudy](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/Lat_vs_Cloudiness.png 'cloudy')
+![cloudy](Python_APIs/Lat_vs_Cloudiness.png)
 
 * Wind Speed (mph) vs. Latitude
 
-![wind](https://github.com/ofunkey/Python_APIs/blob/master/Python_APIs/Lat_Vs_WindSpeed.png 'wind')
+![wind](Python_APIs/Lat_Vs_WindSpeed.png)
+
+
+* A written description the observavable trends based on the data
+
+![observable_trends](Python_APIs/observable_trends.png)
+
+## Funke Olaleye | Data Analytics and Visualization
+
