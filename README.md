@@ -6,7 +6,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
-Ok, it tim to **prove** it!
+Ok, it time to **prove** it!
 
 ![Equator](Python_APIs/equatorsign.png)
 
