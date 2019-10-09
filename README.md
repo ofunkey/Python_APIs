@@ -8,7 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 Ok, it tim to **prove** it!
 
-![Equator](Images/equatorsign.png)
+![Equator](Python_APIs/equatorsign.png)
 
 ## WeatherPy
 
@@ -22,7 +22,7 @@ The objective is to build a series of scatter plots to showcase the relationship
 
 * Humidity (%) vs. Latitude
 
-![humid](Python_APIs/Lat_vs_Humidity.png ')
+![humid](Python_APIs/Lat_vs_Humidity.png)
 
 * Cloudiness (%) vs. Latitude
 
